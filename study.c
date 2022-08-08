@@ -19,6 +19,7 @@
 /*
     C compilers
 
+        pccm	                        1973
         C++Builder
         Tiny C Compiler
         Small-C
@@ -26,9 +27,14 @@
         Open64
         Microsoft Visual C++
         lcc
-        GCC 
-        Clang
-        (Borland) Turbo C
+        (Borland) Turbo C               1987
+        GCC                             1987 
+        Mingw GCC
+        Cygwin GCC
+        Clang                           2007
+
+
+
 
     Why we need multiple compilers?
         a particular Hardware system
@@ -48,6 +54,7 @@
         https://iq.opengenus.org/list-of-c-compilers/
         https://www.thoughtco.com/list-of-free-c-compilers-958190
         https://www.educba.com/best-c-compilers/
+        https://www.equestionanswers.com/c/c-compilers.php
 
 
 */
@@ -56,6 +63,15 @@
 
 
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
