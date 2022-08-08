@@ -1,4 +1,39 @@
 
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/*
+
+    C is a general-purpose computer programming language. 
+    It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.
+    By design, C's features cleanly reflect the capabilities of the targeted CPUs. 
+
+
+*/
+
+
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+/*
+    C compilers
+
+        C++Builder
+        Tiny C Compiler
+        Small-C
+        Oracle C compiler
+        Open64
+        Microsoft Visual C++
+        lcc
+        GCC 
+        Clang
+        (Borland) Turbo C
+
+    Why we need multiple compilers?
+        a particular Hardware system
+        a particular Operating System
+        Particular system load like distributed, real time and others.
 
 
 
@@ -6,6 +41,21 @@
 
 
 
+
+    REFERENCE: 
+        C Compilers list
+        https://en.wikipedia.org/wiki/List_of_compilers
+        https://iq.opengenus.org/list-of-c-compilers/
+        https://www.thoughtco.com/list-of-free-c-compilers-958190
+        https://www.educba.com/best-c-compilers/
+
+
+*/
+
+
+
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -20,6 +70,7 @@ REFERENCE:
     https://www.iso.org/standard/74528.html
     https://www.open-std.org/jtc1/sc22/wg14/
     https://developerinsider.co/difference-between-c-and-ansi-c/
+    https://en.wikipedia.org/wiki/List_of_compilers
 
 
 
@@ -28,7 +79,7 @@ REFERENCE:
 
 
 
-
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
