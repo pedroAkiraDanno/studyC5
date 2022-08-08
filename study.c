@@ -65,8 +65,21 @@
 //------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+/*
+History of C Language
 
 
+
+
+
+
+
+*/
+
+
+
+
+//------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -87,6 +100,7 @@ REFERENCE:
     https://www.open-std.org/jtc1/sc22/wg14/
     https://developerinsider.co/difference-between-c-and-ansi-c/
     https://en.wikipedia.org/wiki/List_of_compilers
+    https://www.scaler.com/topics/c/history-of-c-language/
 
 
 
